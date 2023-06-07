@@ -1,15 +1,10 @@
 # todo app
  this is a simple to do list  app.I have made this by using react native , redux , html, css , and java script.
 
-![Screenshot (14)](https://github.com/agarwal002/todo-app/assets/113688959/4c75354d-1ca5-4686-858d-bbc3d45cc464)
-![Screenshot (15)](https://github.com/agarwal002/todo-app/assets/113688959/61046c45-6d2f-41fe-95ce-6c3003ecda48)
-![Screenshot (16)](https://github.com/agarwal002/todo-app/assets/113688959/b89de6dd-d71d-4c50-9a7
-![Screenshot (17)](https://github.com/agarwal002/todo-app/assets/113688959/c857fdb5-0de7-4a1e-8446-df9c36d10c7b)
-d-cbdab8de09
-![Screenshot (20)](https://github.com/agarwal002/todo-app/assets/113688959/a327e05a-4c0a-4173-b95f-4f761b50225c)
-
-![Screenshot (19)](https://github.com/agarwal002/todo-app/assets/113688959/c4c3f274-cbb4-4ce8-a53d-1b04569c3f87)
-
-![Screenshot (18)](https://github.com/agarwal002/todo-app/assets/113688959/172228ee-67af-47c4-80a1-0db78ddb3aa4)
-7d)
+![Screenshot (21)](https://github.com/agarwal002/todo-app/assets/113688959/367af32e-7eb4-4381-94fb-7659194fe5d9)
+![Screenshot (22)](https://github.com/agarwal002/todo-app/assets/113688959/7fdc0e7a-6945-4021-bcf9-0f4cc629cbbc)
+![Screenshot (23)](https://github.com/agarwal002/todo-app/assets/113688959/ec38db47-611d-42ba-98a2-abe4bba9323e)
+![Screenshot (24)](https://github.com/agarwal002/todo-app/assets/113688959/047def00-7607-41f3-a2c0-27503c9fe06a)
+![Screenshot (25)](https://github.com/agarwal002/todo-app/assets/113688959/cb7986b2-b850-437b-b5b0-9faf8cffe59e)
+![Screenshot (26)](https://github.com/agarwal002/todo-app/assets/113688959/cc6399aa-569f-4de1-bbb9-2a67b0145ef2)
 
